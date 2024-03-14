@@ -1,0 +1,14 @@
+{
+  "name": "electron",
+  "version": "0.0.2",
+  "description": "SimpleValueTrader",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "J Wabinez & N Troiano",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "electron": "^29.1.1"
+  }
+}
